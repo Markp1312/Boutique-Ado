@@ -1,3 +1,6 @@
+import os
+
+
 """
 Django settings for boutique_ado project.
 
